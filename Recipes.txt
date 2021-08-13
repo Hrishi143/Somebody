@@ -3,4 +3,6 @@ Recipes
 2 Idli
 3 Vada
 4 Samber
+Beans
+Pizza
 Thanks
